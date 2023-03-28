@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping namespace="NHibernateSuccintlyDemo.Models" assembly="NHibernateSuccintlyDemo" xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Shopper" table="DT_Shopper" lazy="true">
+    <id name="ShopperId" column="ShopperId" generator="identity" />
+    <property name="ShopperName" column="ShopperName" length="100" not-null="true" />
+    <one-to-one name="ShoppingPoints" class="ShoppingPoints" cascade="save-update"/>
+  </class>
+</hibernate-mapping>

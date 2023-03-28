@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping namespace="NHibernateSuccintlyDemo.Models" assembly="NHibernateSuccintlyDemo" xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Student" table="DT_Student" lazy="true">
+    <id name="StudentId" column="StudentId" generator="identity"/>
+    <property name="StudentName" column="StudentName" length="250"/>
+  </class>
+</hibernate-mapping>

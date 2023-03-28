@@ -1,0 +1,11 @@
+C:\Users\siva-\source\repos\WebAPISample\WebAPISampleDAL\bin\Debug\WebAPISampleDAL.dll.config
+C:\Users\siva-\source\repos\WebAPISample\WebAPISampleDAL\bin\Debug\WebAPISampleDAL.dll
+C:\Users\siva-\source\repos\WebAPISample\WebAPISampleDAL\bin\Debug\WebAPISampleDAL.pdb
+C:\Users\siva-\source\repos\WebAPISample\WebAPISampleDAL\bin\Debug\EntityFramework.dll
+C:\Users\siva-\source\repos\WebAPISample\WebAPISampleDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\siva-\source\repos\WebAPISample\WebAPISampleDAL\bin\Debug\EntityFramework.xml
+C:\Users\siva-\source\repos\WebAPISample\WebAPISampleDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\siva-\source\repos\WebAPISample\WebAPISampleDAL\obj\Debug\WebAPISampleDAL.csproj.CoreCompileInputs.cache
+C:\Users\siva-\source\repos\WebAPISample\WebAPISampleDAL\obj\Debug\WebAPISampleDAL.dll
+C:\Users\siva-\source\repos\WebAPISample\WebAPISampleDAL\obj\Debug\WebAPISampleDAL.pdb
+C:\Users\siva-\source\repos\WebAPISample\WebAPISampleDAL\obj\Debug\WebAPISampleDAL.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+<div class='container'>
+    <input type='text' [(ngModel)]='serverName'/>
+    <button class='btn btn-default' (click)='OnServerCreated()'>Add Server</button>
+    <app-server *ngFor='let server of servers'></app-server>
+    
+</div>

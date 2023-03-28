@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hibernate-mapping namespace="NHibernateSuccintlyDemo.Models" assembly="NHibernateSuccintlyDemo.Models" xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Blog" lazy="true" table="`blog`">
+    <id name="BlogId" column="`blog_id `" generator="hilo" />
+    <property name="Name" column="`NAME`" length="50" not-null="true" />
+    <property name="Creation" column="`creation`" not-null="true" />
+    <property name="PostCount" formula="(SELECT COUNT(1) FROM post WHERE post.blog_id = blog_id)" />
+    <property name="Picture" column="`PICTURE`" not-null="false" lazy="true">
+      <type name="Succinctly.Common.ImageUserType, Succinctly.Common"/>
+    </property>
+    <many-to-one name="Owner" column="`user_id`" not-null="true" lazy="no-proxy" cascade="save-update"/>
+    <list cascade="all-delete-orphan" inverse="true" lazy="true" name="Posts">
+      <key column="`blog_id`" /> <index column="`number`" /> <one-to-many class="Post" />
+    </list>
+  </class>
+</hibernate-mapping>

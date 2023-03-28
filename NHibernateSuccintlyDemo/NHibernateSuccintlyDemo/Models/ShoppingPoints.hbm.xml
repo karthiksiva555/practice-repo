@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping namespace="NHibernateSuccintlyDemo.Models" assembly="NHibernateSuccintlyDemo" xmlns="urn:nhibernate-mapping-2.2">
+  <class name="ShoppingPoints" table="DT_ShoppingPoints" lazy="true">
+    <id name="ShopperId" column="ShopperId">
+      <generator class="foreign">
+        <param name="property">Shopper</param>
+      </generator>
+    </id>
+    <property name="Points" column="Points" not-null="true"/>
+    <one-to-one class="Shopper" name="Shopper" constrained="true"/>
+  </class>
+</hibernate-mapping>

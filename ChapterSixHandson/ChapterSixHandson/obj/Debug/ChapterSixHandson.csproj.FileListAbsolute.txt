@@ -1,0 +1,7 @@
+c:\users\siva-\source\repos\ChapterSixHandson\ChapterSixHandson\bin\Debug\ChapterSixHandson.exe.config
+c:\users\siva-\source\repos\ChapterSixHandson\ChapterSixHandson\bin\Debug\ChapterSixHandson.exe
+c:\users\siva-\source\repos\ChapterSixHandson\ChapterSixHandson\bin\Debug\ChapterSixHandson.pdb
+c:\users\siva-\source\repos\ChapterSixHandson\ChapterSixHandson\obj\Debug\ChapterSixHandson.csprojResolveAssemblyReference.cache
+c:\users\siva-\source\repos\ChapterSixHandson\ChapterSixHandson\obj\Debug\ChapterSixHandson.csproj.CoreCompileInputs.cache
+c:\users\siva-\source\repos\ChapterSixHandson\ChapterSixHandson\obj\Debug\ChapterSixHandson.exe
+c:\users\siva-\source\repos\ChapterSixHandson\ChapterSixHandson\obj\Debug\ChapterSixHandson.pdb

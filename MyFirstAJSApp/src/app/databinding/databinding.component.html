@@ -1,0 +1,17 @@
+<div class='container'>
+  <button class='btn btn-success' id='btnServer' [disabled]="!buttonEnabled">Click Me!</button>
+ <p>button enabled : {{buttonEnabled}}</p>
+</div>
+
+<div class='container'>
+  <button class='btn btn-default' id='btnClickEvent' (click)="OnClickEventClicked()">Create Server</button>
+  <p *ngIf='serverCreated ; else:noServer; '>{{ServerCreateStatus}}</p>
+  <ng-template #noServer>
+    <p>No server is created!</p>
+  </ng-template>
+</div>
+
+<div class='container'>
+  <input type='text' class='form-control' [(ngModel)]='InputText'>
+  <p>{{InputText}}</p>
+</div>

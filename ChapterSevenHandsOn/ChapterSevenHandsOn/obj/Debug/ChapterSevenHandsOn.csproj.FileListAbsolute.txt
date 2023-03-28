@@ -1,0 +1,7 @@
+C:\Users\siva-\source\repos\ChapterSevenHandsOn\ChapterSevenHandsOn\bin\Debug\ChapterSevenHandsOn.exe.config
+C:\Users\siva-\source\repos\ChapterSevenHandsOn\ChapterSevenHandsOn\bin\Debug\ChapterSevenHandsOn.exe
+C:\Users\siva-\source\repos\ChapterSevenHandsOn\ChapterSevenHandsOn\bin\Debug\ChapterSevenHandsOn.pdb
+C:\Users\siva-\source\repos\ChapterSevenHandsOn\ChapterSevenHandsOn\obj\Debug\ChapterSevenHandsOn.csproj.CoreCompileInputs.cache
+C:\Users\siva-\source\repos\ChapterSevenHandsOn\ChapterSevenHandsOn\obj\Debug\ChapterSevenHandsOn.exe
+C:\Users\siva-\source\repos\ChapterSevenHandsOn\ChapterSevenHandsOn\obj\Debug\ChapterSevenHandsOn.pdb
+C:\Users\siva-\source\repos\ChapterSevenHandsOn\ChapterSevenHandsOn\obj\Debug\ChapterSevenHandsOn.csprojResolveAssemblyReference.cache

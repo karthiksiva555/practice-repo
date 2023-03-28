@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.Title = "Student List";
+}
+
+<h2>Student List</h2>
+
+@{ var students = (IEnumerable<DataLayerTightCoupled.Student>)this.ViewData["students"];}
+<table class="table">
+    @foreach (var item in students)
+    {
+        <tr>
+            <td>@item.FirstName</td>
+            <td>@item.LastName</td>
+            <td>@item.ID</td>
+        </tr>
+    }
+</table>

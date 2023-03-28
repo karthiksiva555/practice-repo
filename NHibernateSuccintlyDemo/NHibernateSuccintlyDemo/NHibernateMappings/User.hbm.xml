@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hibernate-mapping namespace="NHibernateSuccintlyDemo.Models" assembly="NHibernateSuccintlyDemo.Models" xmlns="urn:nhibernate-mapping-2.2">
+  <class name="User" lazy="true" table="`user`">
+    <id name="UserId" column="`user_id`" generator="hilo" />
+    <property name="Username" column="`username`" length="10" not-null="true" />
+    <property name="Birthday" column="`birthday`" not-null="false" />
+    <component name="Details">
+      <property name="Fullname" column="`fullname`" length="50" not-null="true" />
+      <property name="Email" column="`email`" length="50" not-null="true" />
+      <property name="Url" column="`url`" length="50" not-null="false" />
+    </component>
+    <set cascade="all-delete-orphan" inverse="true" lazy="true" name="Blogs">
+      <key column="`user_id`" />
+      <one-to-many class="Blog" />
+    </set>
+  </class>
+</hibernate-mapping>

@@ -1,0 +1,13 @@
+C:\Repositories\MultiThreading\MultiThreadingDemo\bin\Debug\netcoreapp3.1\MultiThreadingDemo.exe
+C:\Repositories\MultiThreading\MultiThreadingDemo\bin\Debug\netcoreapp3.1\MultiThreadingDemo.deps.json
+C:\Repositories\MultiThreading\MultiThreadingDemo\bin\Debug\netcoreapp3.1\MultiThreadingDemo.runtimeconfig.json
+C:\Repositories\MultiThreading\MultiThreadingDemo\bin\Debug\netcoreapp3.1\MultiThreadingDemo.runtimeconfig.dev.json
+C:\Repositories\MultiThreading\MultiThreadingDemo\bin\Debug\netcoreapp3.1\MultiThreadingDemo.dll
+C:\Repositories\MultiThreading\MultiThreadingDemo\bin\Debug\netcoreapp3.1\MultiThreadingDemo.pdb
+C:\Repositories\MultiThreading\MultiThreadingDemo\obj\Debug\netcoreapp3.1\MultiThreadingDemo.csprojAssemblyReference.cache
+C:\Repositories\MultiThreading\MultiThreadingDemo\obj\Debug\netcoreapp3.1\MultiThreadingDemo.AssemblyInfoInputs.cache
+C:\Repositories\MultiThreading\MultiThreadingDemo\obj\Debug\netcoreapp3.1\MultiThreadingDemo.AssemblyInfo.cs
+C:\Repositories\MultiThreading\MultiThreadingDemo\obj\Debug\netcoreapp3.1\MultiThreadingDemo.csproj.CoreCompileInputs.cache
+C:\Repositories\MultiThreading\MultiThreadingDemo\obj\Debug\netcoreapp3.1\MultiThreadingDemo.dll
+C:\Repositories\MultiThreading\MultiThreadingDemo\obj\Debug\netcoreapp3.1\MultiThreadingDemo.pdb
+C:\Repositories\MultiThreading\MultiThreadingDemo\obj\Debug\netcoreapp3.1\MultiThreadingDemo.genruntimeconfig.cache

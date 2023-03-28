@@ -1,0 +1,14 @@
+﻿@model LooslyCoupledThreeLayered.Models.DistinctionStudentsViewModel
+@{
+    ViewBag.Title = "Distinction Students";
+}
+
+<h2>Distinction Students</h2>
+
+@if (this.Model.Students != null)
+{
+    foreach (var student in this.Model.Students)
+    {
+        <div>Html.Encode(student.SummaryText)</div>
+    }
+}

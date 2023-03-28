@@ -1,0 +1,6 @@
+C:\Users\siva-\source\repos\LooslyCoupledThreeLayered\DomainModelLooslyCoupled\bin\Debug\DomainModelLooslyCoupled.dll
+C:\Users\siva-\source\repos\LooslyCoupledThreeLayered\DomainModelLooslyCoupled\bin\Debug\DomainModelLooslyCoupled.pdb
+C:\Users\siva-\source\repos\LooslyCoupledThreeLayered\DomainModelLooslyCoupled\obj\Debug\DomainModelLooslyCoupled.csprojResolveAssemblyReference.cache
+C:\Users\siva-\source\repos\LooslyCoupledThreeLayered\DomainModelLooslyCoupled\obj\Debug\DomainModelLooslyCoupled.csproj.CoreCompileInputs.cache
+C:\Users\siva-\source\repos\LooslyCoupledThreeLayered\DomainModelLooslyCoupled\obj\Debug\DomainModelLooslyCoupled.dll
+C:\Users\siva-\source\repos\LooslyCoupledThreeLayered\DomainModelLooslyCoupled\obj\Debug\DomainModelLooslyCoupled.pdb

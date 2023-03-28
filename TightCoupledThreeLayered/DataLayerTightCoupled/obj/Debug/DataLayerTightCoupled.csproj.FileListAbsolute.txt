@@ -1,0 +1,11 @@
+c:\users\siva-\source\repos\TightCoupledThreeLayered\DataLayerTightCoupled\bin\Debug\DataLayerTightCoupled.dll.config
+c:\users\siva-\source\repos\TightCoupledThreeLayered\DataLayerTightCoupled\bin\Debug\DataLayerTightCoupled.dll
+c:\users\siva-\source\repos\TightCoupledThreeLayered\DataLayerTightCoupled\bin\Debug\DataLayerTightCoupled.pdb
+c:\users\siva-\source\repos\TightCoupledThreeLayered\DataLayerTightCoupled\bin\Debug\EntityFramework.dll
+c:\users\siva-\source\repos\TightCoupledThreeLayered\DataLayerTightCoupled\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\siva-\source\repos\TightCoupledThreeLayered\DataLayerTightCoupled\bin\Debug\EntityFramework.xml
+c:\users\siva-\source\repos\TightCoupledThreeLayered\DataLayerTightCoupled\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\siva-\source\repos\TightCoupledThreeLayered\DataLayerTightCoupled\obj\Debug\DataLayerTightCoupled.csprojResolveAssemblyReference.cache
+c:\users\siva-\source\repos\TightCoupledThreeLayered\DataLayerTightCoupled\obj\Debug\DataLayerTightCoupled.csproj.CoreCompileInputs.cache
+c:\users\siva-\source\repos\TightCoupledThreeLayered\DataLayerTightCoupled\obj\Debug\DataLayerTightCoupled.dll
+c:\users\siva-\source\repos\TightCoupledThreeLayered\DataLayerTightCoupled\obj\Debug\DataLayerTightCoupled.pdb

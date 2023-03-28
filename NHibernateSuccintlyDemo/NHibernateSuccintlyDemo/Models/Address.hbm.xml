@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping namespace="NHibernateSuccintlyDemo.Models" assembly="NHibernateSuccintlyDemo" xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Address" table="DT_Address" lazy="true">
+    <id name="AddressId" column="AddressId" generator="identity"/>
+    <property name="AddressLine1" column="AddressLine1" length="200"/>
+    <property name="City" column="City" length="20"/>
+    <many-to-one name="Student" column="StudentId" cascade="save-update"/>
+  </class>
+</hibernate-mapping>

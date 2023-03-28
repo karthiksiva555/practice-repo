@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hibernate-mapping namespace="NHibernateSuccintlyDemo.Models" assembly="NHibernateSuccintlyDemo.Models" xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Comment" lazy="true" table="`comment`">
+    <id name="CommentId" column="`comment_id`" generator="hilo" />
+    <property name="Timestamp" column="`timestamp`" not-null="true" />
+    <property name="Content" type="StringClob" column="`content`" length="2000" not-null="true" lazy="true" />
+    <component name="Details">
+      <property name="Fullname" column="`fullname`" length="50" not-null="true" /> <property name="Email" column="`email`" length="50" not-null="true" /> <property name="Url" column="`url`" length="50" not-null="false" />
+    </component>
+    <many-to-one name="Post" column="`post_id`" not-null="true" lazy="no-proxy" />
+  </class>
+</hibernate-mapping>

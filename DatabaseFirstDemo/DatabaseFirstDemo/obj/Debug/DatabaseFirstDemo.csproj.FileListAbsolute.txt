@@ -1,0 +1,11 @@
+C:\Users\siva-\source\repos\DatabaseFirstDemo\DatabaseFirstDemo\bin\Debug\DatabaseFirstDemo.exe.config
+C:\Users\siva-\source\repos\DatabaseFirstDemo\DatabaseFirstDemo\bin\Debug\DatabaseFirstDemo.exe
+C:\Users\siva-\source\repos\DatabaseFirstDemo\DatabaseFirstDemo\bin\Debug\DatabaseFirstDemo.pdb
+C:\Users\siva-\source\repos\DatabaseFirstDemo\DatabaseFirstDemo\bin\Debug\EntityFramework.dll
+C:\Users\siva-\source\repos\DatabaseFirstDemo\DatabaseFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\siva-\source\repos\DatabaseFirstDemo\DatabaseFirstDemo\bin\Debug\EntityFramework.xml
+C:\Users\siva-\source\repos\DatabaseFirstDemo\DatabaseFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\siva-\source\repos\DatabaseFirstDemo\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.csprojResolveAssemblyReference.cache
+C:\Users\siva-\source\repos\DatabaseFirstDemo\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.csproj.CoreCompileInputs.cache
+C:\Users\siva-\source\repos\DatabaseFirstDemo\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.exe
+C:\Users\siva-\source\repos\DatabaseFirstDemo\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.pdb

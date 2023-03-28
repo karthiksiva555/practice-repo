@@ -1,0 +1,7 @@
+C:\Users\siva-\source\repos\CSharpHandsOnNew\CSharpHandsOnNew\bin\Release\CSharpHandsOnNew.exe.config
+C:\Users\siva-\source\repos\CSharpHandsOnNew\CSharpHandsOnNew\bin\Release\CSharpHandsOnNew.exe
+C:\Users\siva-\source\repos\CSharpHandsOnNew\CSharpHandsOnNew\bin\Release\CSharpHandsOnNew.pdb
+C:\Users\siva-\source\repos\CSharpHandsOnNew\CSharpHandsOnNew\obj\Release\CSharpHandsOnNew.csprojResolveAssemblyReference.cache
+C:\Users\siva-\source\repos\CSharpHandsOnNew\CSharpHandsOnNew\obj\Release\CSharpHandsOnNew.csproj.CoreCompileInputs.cache
+C:\Users\siva-\source\repos\CSharpHandsOnNew\CSharpHandsOnNew\obj\Release\CSharpHandsOnNew.exe
+C:\Users\siva-\source\repos\CSharpHandsOnNew\CSharpHandsOnNew\obj\Release\CSharpHandsOnNew.pdb

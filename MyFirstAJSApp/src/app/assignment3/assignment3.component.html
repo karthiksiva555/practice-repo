@@ -1,0 +1,8 @@
+<div class='jumbotron'></div>
+<div class='container'>
+  <button class='btn btn-default' (click)='OnDisplayClick()'>Display Details</button>  
+  <p [ngClass]="{hideParagraph:showHide}">Secret Password is Mango</p>
+  <div *ngFor="let log of logs" [ngStyle]="{backgroundColor:log>5?'blue':'transparent'}" [ngClass]="{WhiteText:log>5}">
+    {{log}}
+  </div>
+</div>

@@ -1,0 +1,11 @@
+c:\users\siva-\source\repos\TightCoupledThreeLayered\BusinessLayerTightCoupled\obj\Debug\BusinessLayerTightCoupled.csprojResolveAssemblyReference.cache
+c:\users\siva-\source\repos\TightCoupledThreeLayered\BusinessLayerTightCoupled\obj\Debug\BusinessLayerTightCoupled.csproj.CoreCompileInputs.cache
+c:\users\siva-\source\repos\TightCoupledThreeLayered\BusinessLayerTightCoupled\bin\Debug\BusinessLayerTightCoupled.dll
+c:\users\siva-\source\repos\TightCoupledThreeLayered\BusinessLayerTightCoupled\bin\Debug\BusinessLayerTightCoupled.pdb
+c:\users\siva-\source\repos\TightCoupledThreeLayered\BusinessLayerTightCoupled\bin\Debug\DataLayerTightCoupled.dll
+c:\users\siva-\source\repos\TightCoupledThreeLayered\BusinessLayerTightCoupled\bin\Debug\EntityFramework.dll
+c:\users\siva-\source\repos\TightCoupledThreeLayered\BusinessLayerTightCoupled\bin\Debug\DataLayerTightCoupled.pdb
+c:\users\siva-\source\repos\TightCoupledThreeLayered\BusinessLayerTightCoupled\bin\Debug\DataLayerTightCoupled.dll.config
+c:\users\siva-\source\repos\TightCoupledThreeLayered\BusinessLayerTightCoupled\bin\Debug\EntityFramework.xml
+c:\users\siva-\source\repos\TightCoupledThreeLayered\BusinessLayerTightCoupled\obj\Debug\BusinessLayerTightCoupled.dll
+c:\users\siva-\source\repos\TightCoupledThreeLayered\BusinessLayerTightCoupled\obj\Debug\BusinessLayerTightCoupled.pdb

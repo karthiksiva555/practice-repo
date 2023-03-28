@@ -1,0 +1,7 @@
+C:\Users\siva-\source\repos\CSharpInNutShellHandsOn\CSharpInNutShellHandsOn\bin\Debug\CSharpInNutShellHandsOn.exe.config
+C:\Users\siva-\source\repos\CSharpInNutShellHandsOn\CSharpInNutShellHandsOn\bin\Debug\CSharpInNutShellHandsOn.exe
+C:\Users\siva-\source\repos\CSharpInNutShellHandsOn\CSharpInNutShellHandsOn\bin\Debug\CSharpInNutShellHandsOn.pdb
+C:\Users\siva-\source\repos\CSharpInNutShellHandsOn\CSharpInNutShellHandsOn\obj\Debug\CSharpInNutShellHandsOn.csprojResolveAssemblyReference.cache
+C:\Users\siva-\source\repos\CSharpInNutShellHandsOn\CSharpInNutShellHandsOn\obj\Debug\CSharpInNutShellHandsOn.csproj.CoreCompileInputs.cache
+C:\Users\siva-\source\repos\CSharpInNutShellHandsOn\CSharpInNutShellHandsOn\obj\Debug\CSharpInNutShellHandsOn.exe
+C:\Users\siva-\source\repos\CSharpInNutShellHandsOn\CSharpInNutShellHandsOn\obj\Debug\CSharpInNutShellHandsOn.pdb
